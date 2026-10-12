@@ -4,7 +4,6 @@ Desarrollador FullStack en Bogotá, con más de 10 años en desarrollo de softwa
 
 ## 🚀 Lo que estoy construyendo
 - **[Galaxy](https://galaxy.ocus.com.co/)**: plataforma empresarial modular con IA (Andromeda AI), desarrollada en solitario y en evolución continua.
-- **ORYON** (beta): app de escritorio para salud preventiva y facturación RIPS.
 
 ## 🛠️ Tecnologías
 **Backend:** PHP, Laravel, Java, Node.js, Python
